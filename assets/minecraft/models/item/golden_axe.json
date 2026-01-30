@@ -1,0 +1,20 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/golden_axe"
+	},
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [-60, -90, 0],
+			"translation": [1.25, 1.75, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-51, 90, 0],
+			"translation": [0.75, 1.75, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}
